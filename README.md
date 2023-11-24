@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Humza!!</h1>
-<h3 align="center">An aspiring Machine Learning engineer from Pakistan</h3>
+<h3 align="center">An aspiring Machine Learning engineer from Pakistan!!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=humzafazal72" alt="humzafazal72" /></a> </p>
+<br>
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/491e3e44-11a0-487a-b07b-717f677bbe4a" width="400"/>
+</div>
+<br>
 
 - 🌱 I’m currently learning **Deep Learning**
 
