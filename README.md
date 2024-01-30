@@ -2,13 +2,11 @@
 <h3 align="center">An aspiring Machine Learning engineer from Pakistan!!</h3>
 
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **NLP**
 
 - 📫 How to reach me **abbasihumzafazal@gmail.com**
 
 - 📄 Know about my experiences [https://humzafazal72.github.io/portfolio/](https://humzafazal72.github.io/portfolio/)
-
-- ⚡ Fun fact **I have only drank coffee like 3 times in my life :<)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
