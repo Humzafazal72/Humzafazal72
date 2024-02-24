@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring Machine Learning engineer from Pakistan!!</h3>
 
 
-- 🌱 I’m currently learning **NLP**
+- 🌱 I’m currently learning **Computer Vision**
 
 - 📫 How to reach me **abbasihumzafazal@gmail.com**
 
