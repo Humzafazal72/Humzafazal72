@@ -2,10 +2,9 @@
 <h3 align="center">An aspiring Machine Learning engineer from Pakistan!!</h3>
 
 
-- 🌱 I’m currently learning **Computer Vision**
-
+- 🌱 I’m currently learning **Generative Adversarial Networks**
+- 🛠️ I'm currently working on SketchGEN: GAN powered Portrait to Pencil Sketch Conversion
 - 📫 How to reach me **abbasihumzafazal@gmail.com**
-
 - 📄 Know about my experiences [https://humzafazal72.github.io/portfolio/](https://humzafazal72.github.io/portfolio/)
 
 <h3 align="left">Connect with me:</h3>
