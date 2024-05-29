@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently learning **Computer Vision**
 - 📫 How to reach me **abbasihumzafazal@gmail.com**
-- 📄 Know about my experiences [https://humzafazal72.github.io/portfolio/](https://humzafazal72.github.io/portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
